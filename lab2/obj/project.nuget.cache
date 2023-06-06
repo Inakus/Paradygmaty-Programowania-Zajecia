@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aqLceT36KyWP37bjUcUIB1ET41ex1gCwymGBJ3FSkOA4zeLGmwrRFmKjFh46ofD5/bCIUjrm3wvx3FSPfyN3hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Inaku\\Desktop\\Paradygmaty\\lab2\\lab2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Inaku\\.nuget\\packages\\fsharp.core\\7.0.300\\fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
