@@ -37,6 +37,8 @@ let rec wypiszListe =
 let lista = nPierwszych 5
 wypiszListe lista
 
+
+//zadanie z tego pliku z kolosa
 let rec silnia n =
     if n <= 1 then
         1
